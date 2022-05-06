@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "product_name": "samusung galaxy",
+      "product_price": "121213e2e",
+      "product_description": "good product low cost",
+      "id": 1
+    },
+    {
+      "product_name": "jjhhgngfhgh",
+      "product_price": "ghtghreh",
+      "product_description": "ththrth",
+      "id": 2
+    },
+    {
+      "product_name": "Amer",
+      "product_price": "Male",
+      "product_description": "Developer",
+      "id": 3
+    },
+    {
+      "product_name": "mani",
+      "product_price": "Male",
+      "product_description": "Developer",
+      "id": 4
+    },
+    {
+      "product_name": "Kumar",
+      "product_price": "Male",
+      "product_description": "Ojas CEO",
+      "id": 5
+    }
+  ]
+}
